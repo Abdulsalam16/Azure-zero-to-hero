@@ -106,19 +106,25 @@
 
 ## Day 15: Azure DevOps - CD Setup - (PROJECT 3)
 - Implementing Continuous Deployment (CD)
-
-## Day 16: Azure Kubernetes Services(AKS Deep Dive) - (PROJECT 4)
+- Using AKS for CD
+- Creating AKS cluster on Azure
+- Configuring Virtual Machine Scale Sets as Node pools in AKS
 - Hands on sessions on AKS
-- Deploying applciation to AKS
-- Expose the application with Ingress configuration on AKS
+- End to End CI/CD Demonstration
 
-## Day 17: Deploying a Three Tier architecture E-commerce (8 Services, 2 Databases) on AKS - (PROJECT 5)
+## Day 16: Azure Kubernetes Services(AKS Deep Dive) 
+- AKS Deep Dive
+- Understanding AKS vs Self managed Kubernetes clusters
+
+## Day 17: Deploying a Three Tier architecture E-commerce (8 Services, 2 Databases) on AKS - (PROJECT 4)
 - Understand what is three tier architecuture
 - How different services connect to each other in three tier architecture
 - How to create Dockerfiles for each service ?
 - How to create Deployment, Service and Ingress
 - How does Ingress controller work ?
 - Expose the three tier application to end users.
+
+![Screenshot 2024-02-16 at 1 43 25 PM](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/0623a010-d8f1-4632-abce-d06f5755b1fa)
 
 ## Day 18: Azure DevOps Interview Questions
 - Beginner level Azure DevOps Interview Q&A
@@ -131,24 +137,24 @@
 ## Day 20: Azure Key Vault
 - Secrets Management with Key Vault
 - Security Best Practices
+- **PROJECT** - Integrate Azure Keyvault with Secrets Store CSI Driver
 
 ## Day 21: Azure Serverless
 - Understanding Azure Serverless Services
 - Going Serverless with Azure
 
-## Day 22: Cloud Management Strategies for Azure - (PROJECT 6)
-- Cost Optimization
-- Scaling and Performance Optimization
+## Day 22: Event Driven Serverless - (PROJECT 5)
+- Create Azure Functions that are triggered by Azure Blob creation
 
-## Day 23: Complicance on Azure  - (PROJECT 7)
-- Azure Resource Tags
-- Using the Serverless Functions to implement the compliance requirements on Azure
-
-## Day 24: Manage Azure Resources using Terraform - (PROJECT 8)
+## Day 23: Manage Azure Resources using Terraform - (PROJECT 7)
 - How to connect Azure with Terraform
 - How to create resources on Azure with Terraform
 - State file management of Terraform in Azure
 - Best Practices
+
+## Day 24: Azure DevOps Resume preparation for Freshers and Experienced
+- How to create an impressive resume on Azure DevOps
+- How to add projects to the Resume
 
 ## Day 25: Azure Interview Preparion
 - Review of Key Concepts
